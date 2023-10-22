@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farha Kousar</h1>
-<h3 align="center">Passionate Student Pursuing AI & Machine Learning at KNS Institute of Technology</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farha61981&label=Profile%20views&color=0e75b6&style=flat" alt="farha61981" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farha61981" alt="farha61981" /></a> </p>
 
-- 🔭 I’m currently student **B.E in AIML**
+- 🔭 I’m currently student **B.E**
 
 - 🌱 I’m currently learning **Python**
 
@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farha61981&show_icons=true&locale=en" alt="farha61981" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farha61981&" alt="farha61981" /></p>
+
+
+[![An image of @farha61981's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farha61981)](https://holopin.io/@farha61981)
